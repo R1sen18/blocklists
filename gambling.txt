@@ -1,12 +1,22 @@
 # Swiss Gambling Sites
 
-www.jackpots.ch
-www.mycasino.ch
-www.casino777.ch
-www.pasino.ch
-www.starvegas.ch
-www.swisscasinos.ch
-www.7melons.ch
-www.swiss4win.ch
-www.goldengrand.ch
-www.gamrfirst.ch
+0.0.0.0 www.jackpots.ch
+0.0.0.0 jackpots.ch
+0.0.0.0 www.mycasino.ch
+0.0.0.0 mycasino.ch
+0.0.0.0 www.casino777.ch
+0.0.0.0 casino777.ch
+0.0.0.0 www.pasino.ch
+0.0.0.0 pasino.ch
+0.0.0.0 www.starvegas.ch
+0.0.0.0 starvegas.ch
+0.0.0.0 www.swisscasinos.ch
+0.0.0.0 swisscasinos.ch
+0.0.0.0 www.7melons.ch
+0.0.0.0 7melons.ch
+0.0.0.0 www.swiss4win.ch
+0.0.0.0 swiss4win.ch
+0.0.0.0 www.goldengrand.ch
+0.0.0.0 goldengrand.ch
+0.0.0.0 www.gamrfirst.ch
+0.0.0.0 gamrfirst.ch
